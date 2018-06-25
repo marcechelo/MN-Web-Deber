@@ -1,0 +1,37 @@
+.barColor {
+    height: 1px;
+    width: 100%;
+}
+
+.barColor, .barColor {
+    background: #ff6c00;
+    background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJod…EiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+    background: -moz-linear-gradient(left, #ff6c00 0%, #b60098 25%, #009ee0 50%, #e3003e 75%, #fabb00 100%);
+    background: -webkit-gradient(linear, left top, right top, color-stop(0%, #ff6c00), color-stop(25%, #b60098), color-stop(50%, #009ee0), color-stop(75%, #e3003e), color-stop(100%, #fabb00));
+    background: -webkit-linear-gradient(left, #ff6c00 0%, #b60098 25%, #009ee0 50%, #e3003e 75%, #fabb00 100%);
+    background: -o-linear-gradient(left, #ff6c00 0%, #b60098 25%, #009ee0 50%, #e3003e 75%, #fabb00 100%);
+    background: -ms-linear-gradient(left, #ff6c00 0%, #b60098 25%, #009ee0 50%, #e3003e 75%, #fabb00 100%);
+    background: linear-gradient(to right, #ff6c00 0%, #b60098 25%, #009ee0 50%, #e3003e 75%, #fabb00 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff6c00', endColorstr='#fabb00', GradientType=1);
+}
+
+.itemMenu{
+    font-size: .875em;
+}
+
+.itemMenu, .itemMenu{
+    color: #777;
+}
+
+
+.barMenu{
+    float: left;
+    padding: 9px 16px;
+    border-right: 1px solid #333;
+}
+
+.boton{
+    border-style: solid;
+    border-color: #777777;
+    background-color: #222;
+}
